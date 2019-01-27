@@ -1,0 +1,1 @@
+python cadAutoEncCuboids/primSelTsdfChamfer.py --disp=False --nParts=20 --nullReward=0 --probLrDecay=0.0001 --shapeLrDecay=0.01 --synset=03001627 --numTrainIter=50000 --name=chairChamferSurf_null_small_init_prob0pt0001_shape0pt01
